@@ -5,5 +5,5 @@
 </p>
 <hr>
 <p align="center">  
-<img alt="XXDRD's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxdrd&count_private=true&show_icons=true&theme=merko">
+<img alt="XXDRD's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxdrd&layout=compact&theme=merko">
 </p>
